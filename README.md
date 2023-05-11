@@ -2,7 +2,7 @@
 <h4 align="center">A FullStack developer from Iran</h4>
 
 <p align="center">
-  <a href="https://www.youtube.com/@AmirAliZamani-lg1gr1" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-e5170d?style=for-the-badge&logo=youtube&logoColor=white" alt="nicxlau" /></a>
+  <a href="https://www.youtube.com/@AmirAliZamani-lg1gr" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-e5170d?style=for-the-badge&logo=youtube&logoColor=white" alt="nicxlau" /></a>
   <a href="https://t.me/ixAmirCom" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="nicxlau" /></a>
   <a href="https://instagram.com/ixAmirCom" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-ff9d0b?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
 </p>
